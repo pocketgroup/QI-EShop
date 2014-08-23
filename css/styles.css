@@ -1,6 +1,16 @@
 
 body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    padding: 20px;
+}
+
+p {
+    font-weight: 200;
+    margin: 10px;
+}
+
+.outer-website h1 {
+    font-weight: 200;
 }
 
 .outer-website .navigation {
@@ -25,6 +35,24 @@ body {
 
 .outer-website .navigation li a:hover {
     color: #eee;
+}
+
+.outer-website .contact {
+    margin: 50px;
+    font-weight: 200;
+}
+
+.outer-website table.products td {
+    padding: 30px;
+}
+
+.outer-website table.products td h2 {
+    font-weight: 200;
+}
+
+.outer-website table.products td .price {
+    font-size: 30px;
+    font-weight: 200;
 }
 
 .inner-website  {
