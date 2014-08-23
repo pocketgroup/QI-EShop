@@ -9,6 +9,9 @@ p {
     margin: 10px;
 }
 
+a {
+    color: #000;
+}
 .outer-website h1 {
     font-weight: 200;
 }
